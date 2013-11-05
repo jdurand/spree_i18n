@@ -721,7 +721,7 @@ de:
         order_summary_canceled: Bestellzusammenfassung [STORNO]
         subject: Bestellung storniert
         subtotal: ! 'Zwischensumme: %{subtotal}'
-        total: ! 'Gesamtsume: %{total}'
+        total: ! 'Gesamtsumme: %{total}'
       confirm_email:
         dear_customer: Sehr geehrter Kunde,
         instructions: bitte prüfen Sie noch einmal die folgende Bestellung und bewahren die Bestellbestätigung für Ihre Unterlagen auf.
@@ -729,7 +729,7 @@ de:
         subject: Bestellbestätigung
         subtotal: ! 'Zwischensumme: %{subtotal}'
         thanks: Vielen Dank für Ihre Bestellung.
-        total: ! 'Gesamtsume: %{total}'
+        total: ! 'Gesamtsumme: %{total}'
     order_not_found: Wir konnten Ihre Bestellung nicht finden. Bitte versuchen Sie es später noch einmal.
     order_number: Bestellnummer
     order_populator:
@@ -1003,7 +1003,7 @@ de:
     tax: Steuer
     tax_categories: Steuerkategorien
     tax_category: Steuerkategorie
-    tax_rate_amount_explanation: Steuern werden dezumal angegeben um Berechnungen zu erleichtern. (z.B. für 5% Steuern 0.05 eingeben)
+    tax_rate_amount_explanation: Steuern werden dezimal angegeben um Berechnungen zu erleichtern. (z.B. für 5% Steuern 0.05 eingeben)
     tax_rates: Steuersätze
     tax_settings: Einstellungen für Steuerklassen
     tax_total: U-St. Gesamt
